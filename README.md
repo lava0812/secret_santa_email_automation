@@ -39,7 +39,5 @@ A Google Apps Script to automate the Secret Santa process by assigning participa
 - Update the **email message content** directly in the script to reflect your event details.
 - Adjust the **price limit**, **meeting date**, or **language** as needed.
 
-## **Example Use Case**
-Planning a **family or friends' Secret Santa** can be tricky, especially when keeping the assignments anonymous. This script simplifies the process by pairing participants and sending personalized email notifications, making your holiday preparations **smooth and stress-free**.
 
 
